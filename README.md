@@ -58,9 +58,3 @@ fi
 
 This project is available under the MIT license. See the LICENSE.md file for more info.
 
-
-## Feedback and Questions
-
-Email me if you run into any trouble or have any feedback!
-
-[ayush.newatia@icloud.com](mailto:ayush.newatia@icloud.com)
