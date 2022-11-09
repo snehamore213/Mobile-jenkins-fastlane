@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install Xcode, Xcode Command Line Tools, Apple Certificates and Provisioning profiles on the build server. Then run this script.
-# This has been designed for Swift Projects.
+
 # You will need a CI system in addition to these tools.
 
 gem update --system
